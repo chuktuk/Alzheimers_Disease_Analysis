@@ -1,4 +1,4 @@
-    This folder contains the entire Alzheimer's disease capstone project.
+    This repo contains the entire Alzheimer's disease capstone project.
 There are in depth ipynb files for each section of the project that culminate
 in a milestone report and a final report. Presentation of the results are included
 in the AD_Final_Presentation.pptx file. Custom modules (.py files) were created
