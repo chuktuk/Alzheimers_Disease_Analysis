@@ -13,7 +13,6 @@ Capstone1_Ideas                    Initial ideas for the capstone project
 Capstone1_Proposal                 Proposal for capstone project
 
 IPython Notebooks:
-
 1-Data_Import_and_Clean.ipynb            data wrangling and cleaning steps
 2-Data_Storytelling.ipynb                exploratory data analysis
 3-Statistical_Data_Analysis.ipynb        statistical analysis
